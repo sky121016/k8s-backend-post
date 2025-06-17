@@ -35,3 +35,13 @@ out/
 
 ### VS Code ###
 .vscode/
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+src/main/java/com/welab/.DS_Store
+src/main/java/com/welab/k8s_backend_post/.DS_Store
+src/main/java/com/welab/k8s_backend_post/api/.DS_Store
+src/main/java/com/welab/k8s_backend_post/api/backend/.DS_Store
+src/main/java/com/welab/k8s_backend_post/api/backend/BackendK8sController.java
